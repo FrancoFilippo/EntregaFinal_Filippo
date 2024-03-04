@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "Call of Duty: Modern Warfare",
+                "price": 29.99,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-2.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "The last of us: PART II",
+                "price": 19.99,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-6.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Red dead Redemption 2",
+                "price": 49.99,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-7.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "God of war: RAGNAROK",
+                "price": 60.00,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Battlefield V",
+                "price": 19.99,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/productos-1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Gran turismo 7",
+                "price": 69.99,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-5.webp" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "FIFA 23",
+                "price": 25.00,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-3.webp" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Uncharted 4 ",
+                "price": 10.00,
+                "image": { "fields": { "file": { "url": "./assets/images/productos/producto-8.jpg" } } }
+            }
+        }
+    ]
+}
