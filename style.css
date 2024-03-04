@@ -6,7 +6,7 @@
 :root {
     --mainWhite: #ccc;
     --mainBlack: #0d0d0d;
-    --mainGrey: #564745;
+    --mainGrey: #5a5a5a;
     --mainSpacing: 0.1rem;
     --mainTransition: all 0.3s linear;
 }
@@ -165,7 +165,7 @@ a:hover {
     position: absolute;
     top: 70%;
     right: 0;
-    background: linear-gradient(#ccc, #2d2);
+    background: linear-gradient(#ab8ff7, rgb(95, 97, 221));
     border: none;
     padding: 0.5rem 0.75rem;
     letter-spacing: var(--mainSpacing);
@@ -176,7 +176,7 @@ a:hover {
 }
 
 .bag-btn:hover {
-    background: linear-gradient(#2d2, #ccc);
+    background: linear-gradient(rgb(95, 97, 221), #ab8ff7);
 }
 
 .fa-shopping-cart {
@@ -236,7 +236,7 @@ a:hover {
     height: 100%;
     overflow: scroll;
     z-index: 3;
-    background: linear-gradient(70deg, #111, #222, #444);
+    background: linear-gradient(70deg, #a465df, #41124d, #7d2aeb);
     padding: 1.5rem;
     transition: var(--mainTransition);
     transform: translateX(100%);
